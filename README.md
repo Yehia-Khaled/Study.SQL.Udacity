@@ -53,3 +53,5 @@ This repository aims to:
 
 Happy learning and good luck with your SQL journey!
 
+### Course on Udacity Link
+https://www.udacity.com/course/sql-for-data-analysis--ud198
